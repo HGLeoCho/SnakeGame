@@ -1,16 +1,16 @@
 ////////////////////////////////////////////////////////////////
 //------------------------------------------------------------//
-//-               Snake Game - Using Console Log              //
-//-															 -//
-//-															 -//
-//-   Created By : Leo HoGyeong Cho							 -//
-//-   Last Edit  : April 6th, 2018							 -//
-//-															 -//
-//-															 -//
+//-               Snake Game - Using Console Log             -//
+//-							     -//
+//-							     -//
+//-   Created By : Leo HoGyeong Cho			     -//
+//-   Last Edit  : April 6th, 2018			     -//
+//-							     -//
+//-							     -//
 //------------------------------------------------------------//
 ////////////////////////////////////////////////////////////////
 // ## Things to improve ##
-// - bug while wall switching 
+// - bug while wall switching simultaneously
 // - fruits appearing at tails or snakes's head
 // - possible instructions on the bottom part(suggested font, keyboard input etc)
 // - compatibility to arrow keys 
