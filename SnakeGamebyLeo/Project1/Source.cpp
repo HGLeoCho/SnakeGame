@@ -192,6 +192,7 @@ void logic() {
 		break;
 	}
 
+	//Wall-riding sort of incomplete at this moment June 5 2018
 	if (x == width - 1) {
 		x = 1;
 	}
@@ -206,6 +207,8 @@ void logic() {
 		y = height;
 	}
 
+	
+	// When Snake Head contacts Fruity
 	if (test == TEST || x == fruitX && y == fruitY) {
 		fruitX = rand() % (width - 2) + 1;
 		fruitY = rand() % (height);
